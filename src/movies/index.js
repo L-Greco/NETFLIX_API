@@ -25,7 +25,7 @@ moviesRouter.post("/", moviesValidation, async (req, res, next) => {
 
         } else {
             const comments = getComments()
-            const newMovie = { _id: uniqid(), ...req.body, poster: "No image uploaded yet :/", createdAT: new Date(), comments: [] }
+            const newMovie = { _id: uniqid(), ...req.body, poster: "No image uploaded yet :/", createdAT: new Date(), }
 
             const movies = await getMovies()
             movies.push(newMovie)

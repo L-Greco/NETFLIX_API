@@ -1,1 +1,11 @@
-[{"_id":"3jzcd0kp8fx8ru","Title":"The Lord of the Rings: The Fellowship of the Ring","Year":"2001","Category":"Fantasy","poster":"https://res.cloudinary.com/kostasdev/image/upload/v1622213418/ljlytydg52c05mfb87vq.jpg","createdAT":"2021-05-28T14:48:34.985Z","comments":[],"updatedAt":"2021-05-28T14:50:18.713Z"}]
+[
+  {
+    "_id": "3jzcd0kp8fx8ru",
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Year": "2001",
+    "Category": "Fantasy",
+    "poster": "https://res.cloudinary.com/kostasdev/image/upload/v1622213418/ljlytydg52c05mfb87vq.jpg",
+    "createdAT": "2021-05-28T14:48:34.985Z",
+    "updatedAt": "2021-05-28T14:50:18.713Z"
+  }
+]

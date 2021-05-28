@@ -3,7 +3,7 @@ import uniqid from "uniqid"
 import createError from "http-errors"
 import { validationResult } from "express-validator"
 import { commentsValidation } from "./validation.js"
-import { getComments, writeComments } from "../library/fs-tools.js"
+import { getComments, writeComments, getMovies } from "../library/fs-tools.js"
 
 
 const commentsRouter = express.Router()
