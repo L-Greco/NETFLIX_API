@@ -1,11 +1,1 @@
-[
-  {
-    "_id": "3jzcd0kp8fx8ru",
-    "Title": "The Lord of the Rings: The Fellowship of the Ring",
-    "Year": "2001",
-    "Category": "Fantasy",
-    "poster": "https://res.cloudinary.com/kostasdev/image/upload/v1622213418/ljlytydg52c05mfb87vq.jpg",
-    "createdAT": "2021-05-28T14:48:34.985Z",
-    "updatedAt": "2021-05-28T14:50:18.713Z"
-  }
-]
+[{"_id":"3jzcd0kp8fx8ru","Title":"The Lord of the Rings: The Fellowship of the Ring","Year":"2001","Category":"Fantasy","poster":"https://res.cloudinary.com/kostasdev/image/upload/v1622213418/ljlytydg52c05mfb87vq.jpg","createdAT":"2021-05-28T14:48:34.985Z","updatedAt":"2021-05-28T14:50:18.713Z"},{"_id":"3jzf24kp8he49b","Title":"","Year":"","Category":"","poster":"No image uploaded yet :/","createdAT":"2021-05-28T15:29:41.902Z"},{"_id":"3jzf24kp8hikac","Title":"Ace Ventura","Year":"1992","Category":"Comedy","poster":"https://res.cloudinary.com/kostasdev/image/upload/v1622216018/ktcq4ysjsqmknj7xtxdd.jpg","createdAT":"2021-05-28T15:33:09.300Z","updatedAt":"2021-05-28T15:33:38.900Z"}]
